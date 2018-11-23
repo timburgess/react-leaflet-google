@@ -1254,7 +1254,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	// Based on https://github.com/shramov/leaflet-plugins
 	// GridLayer like https://avinmathew.com/leaflet-and-google-maps/ , but using MutationObserver instead of jQuery
-	_googleMaps2.default.VERSION = "3.32";
+	_googleMaps2.default.VERSION = "3.33";
 
 	var google = void 0;
 
